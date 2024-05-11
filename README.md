@@ -1,0 +1,1 @@
+<hr>"Medallion Data Architecture" coined by Databricks and adopted by Microsoft refers to a framework for organizing and categorizing data at different stages of processing, often referred to as "bronze," "silver," and "gold" levels of data.<hr>
