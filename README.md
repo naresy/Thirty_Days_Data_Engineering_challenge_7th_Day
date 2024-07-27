@@ -59,11 +59,4 @@
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
     
-<h2>Contact</h2>
-<p>For any questions or inquiries, please contact:</p>
-<ul>
-<li>Your Name</li>
-<li>Your Email</li>
-<li><a href="https://github.com/yourusername" target="_blank">Your GitHub profile</a></li>
-</ul>
 
